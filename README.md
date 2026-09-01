@@ -8,11 +8,11 @@ A restaurant website built with React — browse the menu, place orders, book a 
 
 | Home | Story |
 |---|---|
-| ![Home page](./screenshots/Home1.png)(./screenshots/Home2.png) | ![Menu page](./screenshots/story.png) |
+| ![Home page 1](./screenshots/Home1.png) ![Home page 2](./screenshots/Home2.png) | ![Story page](./screenshots/story.png) |
 
-| Menu | Order|
+| Menu | Order |
 |---|---|
-| ![Menu page](./screenshots./Menu.png) | ![Order page](./screenshots./order.png) |
+| ![Menu page](./screenshots/Menu.png) | ![Order page](./screenshots/order.png) |
 
 ---
 
