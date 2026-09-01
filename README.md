@@ -8,7 +8,7 @@ A restaurant website built with React — browse the menu, place orders, book a 
 
 | Home | Story |
 |---|---|
-| ![Home page 1](./screenshots/Home1.png) ![Home page 2](./screenshots/Home2.png) | ![Story page](./screenshots/story.png) |
+| ![Home page 1](./screenshots/Home1.png)| ![Story page](./screenshots/story.png) |
 
 | Menu | Order |
 |---|---|
