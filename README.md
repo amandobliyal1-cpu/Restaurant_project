@@ -6,13 +6,13 @@ A restaurant website built with React — browse the menu, place orders, book a 
 
 ## Screenshots
 
-| Home | Menu |
+| Home | Story |
 |---|---|
-| ![Home page](./screenshots/home.png) | ![Menu page](./screenshots/menu.png) |
+| ![Home page](public\screenshots\Home1.png)(public\screenshots\Home2.png) | ![Menu page](public\screenshots\story.png) |
 
-| Cart | Reservation |
+| Menu | Order|
 |---|---|
-| ![Cart page](./screenshots/cart.png) | ![Reservation page](./screenshots/reservation.png) |
+| ![Menu page](public\screenshots\Menu.png) | ![Order page](public\screenshots\order.png) |
 
 ---
 
