@@ -1,0 +1,176 @@
+{
+  "users": [
+  
+  ],
+  "menu": [
+    {
+      "id": "1",
+      "name": "Murgh Makhani",
+      "image": "/images/murgh-makhani.png",
+      "description": "Classic butter chicken - grilled chicken in a silky tomato, cashew & fenugreek gravy. Served with butter naan.",
+      "price": 550,
+      "category": "Main Course",
+      "isSignature": true,
+      "showInMenu": true,
+      "isDeliverable": true
+    },
+    {
+      "id": "2",
+      "name": "Lucknowi Dum Biryani",
+      "image": "/images/lucknowi-dum-biryani.png",
+      "description": "Layered basmati rice with tender marinated meat (chicken/lamb), caramelized onions, saffron & mint, sealed and slow-cooked dum style.",
+      "price": 490,
+      "category": "Main Course",
+      "isSignature": true,
+      "showInMenu": true,
+      "isDeliverable": true
+    },
+    {
+      "id": "3",
+      "name": "Paneer Tikka Achari",
+      "image": "/images/paneer-tikka-achari.png",
+      "description": "Pickle-spiced cottage cheese, chargrilled with capsicum & onions, served with mint chutney.",
+      "price": 425,
+      "category": "Starter",
+      "isSignature": false,
+      "showInMenu": true,
+      "isDeliverable": false
+    },
+    {
+      "id": "4",
+      "name": "Tandoori Platter",
+      "image": "/images/tandoori-platter.png",
+      "description": "Assortment of chicken tikka, seekh kebab, fish tikka & tandoori prawns - perfect for sharing.",
+      "price": 1290,
+      "category": "Starter",
+      "isSignature": true,
+      "showInMenu": true,
+      "isDeliverable": false
+    },
+    {
+      "id": "5",
+      "name": "Dal Makhani",
+      "image": "/images/dal-makhani.png",
+      "description": "Slow-cooked black lentils, butter & cream, simmered overnight on low charcoal heat. Served with butter garlic naan.",
+      "price": 395,
+      "category": "Main Course",
+      "isSignature": false,
+      "showInMenu": true,
+      "isDeliverable": true
+    },
+    {
+      "id": "6",
+      "name": "Gulab Jamun",
+      "image": "/images/gulab-jamun.png",
+      "description": "Warm milk-solid dumplings, soaked in cardamom-scented sugar syrup. Served with rabri.",
+      "price": 180,
+      "category": "Dessert",
+      "isSignature": false,
+      "showInMenu": true,
+      "isDeliverable": true
+    },
+    {
+      "id": "7",
+      "name": "Amritsari Chole",
+      "image": "/images/amritsari-chole.png",
+      "description": "Punjabi-style spiced chickpeas simmered in a tangy tea-infused masala, finished with ginger juliennes and pomegranate.",
+      "price": 340,
+      "category": "Starter",
+      "isSignature": false,
+      "showInMenu": true,
+      "isDeliverable": true
+    },
+    {
+      "id": "8",
+      "name": "Kashmiri Rogan Josh",
+      "image": "/images/rogan-josh.png",
+      "description": "Slow-braised lamb shoulder in a fiery Kashmiri red chilli & yoghurt gravy, fragrant with fennel and dry ginger.",
+      "price": 620,
+      "category": "Main Course",
+      "isSignature": true,
+      "showInMenu": true,
+      "isDeliverable": false
+    },
+    {
+      "id": "9",
+      "name": "Garlic Butter Naan",
+      "image": "/images/garlic-butter-naan.png",
+      "description": "Tandoor-baked leavened bread, brushed with roasted garlic butter and fresh coriander straight off the fire.",
+      "price": 95,
+      "category": "Bread",
+      "isSignature": false,
+      "showInMenu": true,
+      "isDeliverable": true
+    },
+    {
+      "id": "10",
+      "name": "Kesar Pista Kulfi",
+      "image": "/images/kesar-pista-kulfi.png",
+      "description": "Traditional saffron & pistachio milk kulfi, slow-set the old-fashioned way and served on the stick. A dine-in only house specialty - it doesn't travel well, so it's off the delivery menu.",
+      "price": 220,
+      "category": "Dessert",
+      "isSignature": true,
+      "showInMenu": true,
+      "isDeliverable": false
+    }
+  ],
+  "reservations": [
+    {
+      "name": "Test User",
+      "date": "2026-09-01",
+      "time": "7:00 PM",
+      "guests": "2 guests",
+      "id": "1"
+    },
+    {
+      "name": "Test User",
+      "email": "test@gmail.com",
+      "phone": "987653421",
+      "date": "2026-08-28",
+      "time": "9:00 PM",
+      "guests": "4 guests",
+      "notes": "",
+      "id": "ANwH7Zv"
+    }
+  ],
+  "orders": [
+    {
+      "username": "Test User",
+      "items": [
+        {
+          "id": "2",
+          "name": "Lucknowi Dum Biryani",
+          "image": "/images/lucknowi-dum-biryani.png",
+          "price": 490,
+          "quantity": 5
+        },
+        {
+          "id": "1",
+          "name": "Murgh Makhani",
+          "image": "/images/murgh-makhani.png",
+          "price": 550,
+          "quantity": 4
+        }
+      ],
+      "total": 4650,
+      "placedAt": "2026-08-25T06:29:35.876Z",
+      "id": "irNGSOnIOwY"
+    },
+    {
+      "username": "Test User",
+      "items": [
+        {
+          "id": "2",
+          "name": "Lucknowi Dum Biryani",
+          "image": "/images/lucknowi-dum-biryani.png",
+          "price": 490,
+          "quantity": 1
+        }
+      ],
+      "total": 490,
+      "placedAt": "2026-08-25T10:51:40.817Z",
+      "id": "-feUG54"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
