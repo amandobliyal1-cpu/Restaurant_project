@@ -31,7 +31,7 @@ A restaurant website built with React — browse the menu, place orders, book a 
 - **Frontend:** React 19 + Vite
 - **Routing:** React Router v6
 - **Styling:** Bootstrap 5
-- **Mock backend:** [json-server](https://github.com/typicode/json-server) (serves `db.json` as a REST API)
+- **Backend:** [json-server] (serves `db.json` as a REST API)
 
 ---
 
