@@ -22,8 +22,7 @@ A restaurant website built with React — browse the menu, place orders, book a 
 - Add items to cart and place orders
 - Book table reservations
 - User signup / login
-- Save a delivery address to your account
-- Protected pages (Cart, Address) that require login
+
 
 ---
 
@@ -79,5 +78,3 @@ db.json             # Mock database (users, menu, orders, reservations)
 | `npm run dev` | Start the frontend dev server |
 | `npm run server` | Start the mock backend (json-server) |
 | `npm run build` | Build the frontend for production |
-| `npm run preview` | Preview the production build locally |
-| `npm run lint` | Run ESLint |
