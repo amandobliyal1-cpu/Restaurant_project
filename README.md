@@ -1,6 +1,6 @@
 # IndiBhoj 🍽️
 
-A restaurant website built with React — browse the menu, place orders, book a table.
+A restaurant website built with React — browse the menu, place orders, book a table .
 
 ---
 
